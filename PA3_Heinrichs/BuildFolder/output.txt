@@ -1,0 +1,15 @@
+Chaining HashTable: 
+current size: 0 bucket count: 101 load factor: 0
+Time difference = 127087[ms]
+Time difference = 2[ms]
+Time difference = 1[ms]
+Time difference = 0[ms]
+current size: 99999 bucket count: 222461 load factor: 0.449513
+
+Linear Probing HashTable: 
+current size: 0 bucket count: 101 load factor: 0
+Time difference = 18413[ms]
+Time difference = 0[ms]
+Time difference = 0[ms]
+Time difference = 0[ms]
+current size: 99999 bucket count: 222461 load factor: 0.449513
