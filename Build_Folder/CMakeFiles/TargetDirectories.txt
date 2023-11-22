@@ -1,0 +1,3 @@
+/Users/gabrielheinrichs/desktop/CS_223/MA4_start_code/Build_Folder/CMakeFiles/MA4.dir
+/Users/gabrielheinrichs/desktop/CS_223/MA4_start_code/Build_Folder/CMakeFiles/edit_cache.dir
+/Users/gabrielheinrichs/desktop/CS_223/MA4_start_code/Build_Folder/CMakeFiles/rebuild_cache.dir
